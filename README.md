@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img alt="Proffy" title="Proffy" src="web/assets/imagees/logo.svg" />
-</h1>
-
 <p align="center">
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#projeto">Projeto</a>
@@ -11,7 +7,7 @@
 
 ## 💻 Projeto
 
-O Proffy é uma plataforma de estudos desenvolvida durante a Next Level Week 2 da RocketSeat que conecta professores com alunos.
+O Proffy é uma plataforma de estudos desenvolvida durante o Next Level Week 2 realizada pela RocketSeat que conecta professores com alunos.
 
 ## 🚀 Tecnologias
 
