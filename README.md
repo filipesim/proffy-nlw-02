@@ -1,3 +1,7 @@
+<h1>
+  <img src=".github/logo.svg" />
+</h1>
+
 <p align="center">
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#projeto">Projeto</a>
