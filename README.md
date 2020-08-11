@@ -1,14 +1,3 @@
-<h1>
-
-</h1>
-
-<p align="center">
-  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#projeto">Projeto</a>
-</p>
-
-<br>
-
 ## 💻 Projeto
 
 O Proffy é uma plataforma de estudos desenvolvida durante o Next Level Week 2 realizada pela RocketSeat que conecta professores com alunos.
